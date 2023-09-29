@@ -1,0 +1,14 @@
+C:\Users\33781\source\repos\SCHNELZAUER-Lucas_TD2-Algo\SCHNELZAUER-Lucas_TD2-Algo\bin\Debug\SCHNELZAUER-Lucas_TD2-Algo.exe.config
+C:\Users\33781\source\repos\SCHNELZAUER-Lucas_TD2-Algo\SCHNELZAUER-Lucas_TD2-Algo\bin\Debug\SCHNELZAUER-Lucas_TD2-Algo.exe
+C:\Users\33781\source\repos\SCHNELZAUER-Lucas_TD2-Algo\SCHNELZAUER-Lucas_TD2-Algo\bin\Debug\SCHNELZAUER-Lucas_TD2-Algo.pdb
+C:\Users\33781\source\repos\SCHNELZAUER-Lucas_TD2-Algo\SCHNELZAUER-Lucas_TD2-Algo\obj\Debug\SCHNELZAUER-Lucas_TD2-Algo.csproj.AssemblyReference.cache
+C:\Users\33781\source\repos\SCHNELZAUER-Lucas_TD2-Algo\SCHNELZAUER-Lucas_TD2-Algo\obj\Debug\SCHNELZAUER-Lucas_TD2-Algo.csproj.CoreCompileInputs.cache
+C:\Users\33781\source\repos\SCHNELZAUER-Lucas_TD2-Algo\SCHNELZAUER-Lucas_TD2-Algo\obj\Debug\SCHNELZAUER-Lucas_TD2-Algo.exe
+C:\Users\33781\source\repos\SCHNELZAUER-Lucas_TD2-Algo\SCHNELZAUER-Lucas_TD2-Algo\obj\Debug\SCHNELZAUER-Lucas_TD2-Algo.pdb
+C:\Users\lucas\OneDrive\BTS SIO\SIO2\SUP.INF.ZAEGEL\C#\SCHNELZAUER-Lucas_TD2-Algo\SCHNELZAUER-Lucas_TD2-Algo\bin\Debug\SCHNELZAUER-Lucas_TD2-Algo.exe.config
+C:\Users\lucas\OneDrive\BTS SIO\SIO2\SUP.INF.ZAEGEL\C#\SCHNELZAUER-Lucas_TD2-Algo\SCHNELZAUER-Lucas_TD2-Algo\bin\Debug\SCHNELZAUER-Lucas_TD2-Algo.exe
+C:\Users\lucas\OneDrive\BTS SIO\SIO2\SUP.INF.ZAEGEL\C#\SCHNELZAUER-Lucas_TD2-Algo\SCHNELZAUER-Lucas_TD2-Algo\bin\Debug\SCHNELZAUER-Lucas_TD2-Algo.pdb
+C:\Users\lucas\OneDrive\BTS SIO\SIO2\SUP.INF.ZAEGEL\C#\SCHNELZAUER-Lucas_TD2-Algo\SCHNELZAUER-Lucas_TD2-Algo\obj\Debug\SCHNELZAUER-Lucas_TD2-Algo.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\BTS SIO\SIO2\SUP.INF.ZAEGEL\C#\SCHNELZAUER-Lucas_TD2-Algo\SCHNELZAUER-Lucas_TD2-Algo\obj\Debug\SCHNELZAUER-Lucas_TD2-Algo.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\BTS SIO\SIO2\SUP.INF.ZAEGEL\C#\SCHNELZAUER-Lucas_TD2-Algo\SCHNELZAUER-Lucas_TD2-Algo\obj\Debug\SCHNELZAUER-Lucas_TD2-Algo.exe
+C:\Users\lucas\OneDrive\BTS SIO\SIO2\SUP.INF.ZAEGEL\C#\SCHNELZAUER-Lucas_TD2-Algo\SCHNELZAUER-Lucas_TD2-Algo\obj\Debug\SCHNELZAUER-Lucas_TD2-Algo.pdb
